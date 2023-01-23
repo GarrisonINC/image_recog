@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+    color: darkorange;
+}
+
+.heading{
+    width:80%;
+    font-size: x-large;
+}
+
+.shapes,#result_object_name,#result_object_accuracy{
+    color: darkslateblue;
+    font-weight: bold;
+    font-size: large;
+}
+
+#camera,#result {
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+}
+
